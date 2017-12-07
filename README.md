@@ -1,11 +1,10 @@
-[![Build Status](https://travis-ci.org/pvaret/rtl8192cu-fixes.svg?branch=master)](https://travis-ci.org/pvaret/rtl8192cu-fixes)
-
-This is a repackaging of Realtek's own 8192CU USB WiFi driver for Ubuntu 13.10 and later.
+This is a repackaging of of a repackage of Realtek's own 8192CU USB WiFi [driver for Ubuntu by @pvaret](https://travis-ci.org/pvaret/rtl8192cu-fixes).
 
 Compatibility
 =============
 
 These devices are known to work with this driver:
+- EDUP EN-8508GS 
 - ASUSTek USB-N13 **rev. B1** (0b05:17ab)
 - Belkin N300 (050d:2103)
 - D-Link DWA-121 802.11n Wireless N 150 Pico Adapter [RTL8188CUS]
